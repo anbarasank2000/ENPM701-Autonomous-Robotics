@@ -77,32 +77,6 @@ This project has been a fantastic learning experience, and I’m grateful for th
 
 ---
 
-## Repository Structure
-```
-├── hardware/                  # Hardware setup and design
-├── software/                  # Codebase for different modules
-│   ├── perception/            # Object and arrow detection
-│   ├── navigation/            # Localization and trajectory planning
-│   ├── motion_control/        # Motor and IMU-based movement
-├── README.md                  # Project documentation (this file)
-```
-
-## How to Run
-1. **Clone the repository:**
-   ```sh
-   git clone https://github.com/yourusername/your-repo.git
-   ```
-2. **Install dependencies:**
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. **Run the main script:**
-   ```sh
-   python main.py
-   ```
-
----
-
 ## Acknowledgments
 Thanks to **Dr. Michell** and my peers for their support in this project!
 
