@@ -1,12 +1,13 @@
 # ENPM701-Autonomous-Robotics
-**[Grand Challenge Video** 👇
-
-[![Grand Challenge Video](https://img.youtube.com/vi/bd-VS6yTScw/0.jpg)](https://youtu.be/bd-VS6yTScw)
 
 # Autonomous Mobile Robot - Grand Challenge
 
 ## Overview
 This project involves building an autonomous mobile robot capable of self-navigation and perception. The final goal is to complete the **Grand Challenge**, where the robot must navigate a Martian-like environment, pick nine colored blocks (red, green, blue) in order, and deliver them to a designated construction zone.
+
+# **Grand Challenge Video** 👇
+
+[![Grand Challenge Video](https://img.youtube.com/vi/bd-VS6yTScw/0.jpg)](https://youtu.be/bd-VS6yTScw)
 
 ## Table of Contents
 - [Hardware Design](#hardware-design)
