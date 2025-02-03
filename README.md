@@ -1,5 +1,6 @@
 # ENPM701-Autonomous-Robotics
-[![Grand Challenge](https://youtu.be/msxJOTIavL4)
+[![Grand Challenge]()
+[![Video Title](https://img.youtube.com/vi/msxJOTIavL4/0.jpg)](https://youtu.be/msxJOTIavL4)
 
 # Autonomous Mobile Robot - Grand Challenge
 
