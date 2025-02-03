@@ -78,7 +78,7 @@ This project has been a fantastic learning experience, and I’m grateful for th
 ---
 
 ## Acknowledgments
-Thanks to **Dr. Michell** and my peers for their support in this project!
+Thanks to **Dr. Michell** for his support in this project!
 
 **Peace!** ✌️
 
