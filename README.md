@@ -7,7 +7,7 @@ This project involves building an autonomous mobile robot capable of self-naviga
 
 # **Grand Challenge Video** 👇
 
-[![Grand Challenge Video](https://img.youtube.com/vi/bd-VS6yTScw/0.jpg)](https://youtu.be/bd-VS6yTScw)
+[![Grand Challenge Video](VN20250203_171153.gif)](https://youtu.be/bd-VS6yTScw)
 
 ## Table of Contents
 - [Hardware Design](#hardware-design)
