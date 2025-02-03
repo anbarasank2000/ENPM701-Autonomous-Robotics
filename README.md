@@ -70,7 +70,7 @@ A simple **if-condition** could have fixed the error, allowing the robot to comp
 ## Lessons Learned
 Through this project, I gained hands-on experience in:
 - **Perception** (image processing and object detection)
-- **Navigation** (path planning, localization, and sensor fusion)
+- **Navigation** (localization, and sensor fusion)
 - **Motion Control** (PID control, trajectory tracking, and feedback loops)
 
 This project has been a fantastic learning experience, and I’m grateful for the guidance of **Dr. Michell** throughout the semester.
